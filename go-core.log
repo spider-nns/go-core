@@ -1,0 +1,92 @@
+[spider]2021/02/12 14:08:32.212327 /Users/spider/GolandProjects/go-core/basic/log/log.go:22: 这是一条很普通的日志
+[spider]2021/02/12 14:08:32.212426 /Users/spider/GolandProjects/go-core/basic/log/log.go:24: 这是一条很普通的
+[spider]2021/02/12 14:08:32.212436 /Users/spider/GolandProjects/go-core/basic/log/log.go:26: 这是一条会触发fatal的日志
+[spider]2021/02/12 14:12:59.500985 /Users/spider/GolandProjects/go-core/basic/log/log.go:22: 这是一条很普通的日志
+[spider]2021/02/12 14:12:59.501053 /Users/spider/GolandProjects/go-core/basic/log/log.go:24: 这是一条很普通的
+[spider]2021/02/12 14:12:59.501058 /Users/spider/GolandProjects/go-core/basic/log/log.go:26: 这是一条会触发fatal的日志
+[spider]2021/02/12 14:22:12.650770 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:32: type:int value:2021
+[spider]2021/02/12 14:29:33.934483 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:30: string convert int fail
+[spider]2021/02/12 14:34:13.079704 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:31: string:2021。2 convert int fail
+[spider]2021/02/12 14:34:28.950022 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:33: type:int value:2021
+[spider]2021/02/12 14:34:28.950098 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:37: 2021
+[spider]2021/02/12 14:38:05.032789 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:33: type:int value:2021
+[spider]2021/02/12 14:38:05.032852 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:38: 2021
+[spider]2021/02/12 14:38:05.032861 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:41: parseBool 接收 1:1，0:0，t:t，f:f，T:T，F:F，true:true，false:false，True:True，False:False，TRUE:TRUE，FALSE:FALSE
+[spider]2021/02/12 14:40:08.492285 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:40:08.492375 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:40:08.492382 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 14:41:36.372414 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:41:36.372533 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:41:36.372541 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 14:45:08.237385 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:45:08.237450 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:45:08.237457 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 14:45:49.415562 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:45:49.415618 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:45:49.415624 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 14:45:58.548918 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:45:58.548991 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:45:58.548996 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 14:46:11.226536 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:46:11.226641 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:46:11.226647 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 14:48:05.756794 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 14:48:05.756893 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 14:48:05.756899 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:39:36.667925 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:39:36.668385 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:39:36.668404 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:39:48.105633 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:39:48.105696 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:39:48.105701 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:39:53.161240 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:39:53.161359 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:39:53.161369 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:40:28.050212 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:40:28.050312 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:40:28.050319 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:40:37.567553 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:40:37.567664 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:40:37.567670 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:40:42.307170 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:40:42.307243 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:40:42.307249 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:40:50.288924 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:40:50.289011 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:40:50.289018 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:40:59.968920 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:40:59.969004 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:40:59.969010 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:41:12.491876 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:41:12.491982 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:41:12.492000 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:41:23.849027 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:41:23.849098 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:41:23.849104 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:44:06.865521 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:44:06.865645 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:44:06.865653 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:44:16.512518 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:44:16.512610 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:44:16.512615 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:45:12.824139 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:45:12.824231 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:45:12.824240 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:46:23.724652 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:46:23.724775 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:46:23.724783 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:47:11.946246 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:34: type:int value:2021
+[spider]2021/02/12 20:47:11.946390 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:39: 2021
+[spider]2021/02/12 20:47:11.946399 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:42: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 20:51:47.913079 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:35: type:int value:2021
+[spider]2021/02/12 20:51:47.913166 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:40: 2021
+[spider]2021/02/12 20:51:47.913174 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:43: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 21:13:42.974485 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:35: type:int value:2021
+[spider]2021/02/12 21:13:42.974770 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:40: 2021
+[spider]2021/02/12 21:13:42.974786 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:43: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 21:14:04.030030 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:35: type:int value:2021
+[spider]2021/02/12 21:14:04.030105 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:40: 2021
+[spider]2021/02/12 21:14:04.030111 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:43: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
+[spider]2021/02/12 21:14:09.290799 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:35: type:int value:2021
+[spider]2021/02/12 21:14:09.290873 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:40: 2021
+[spider]2021/02/12 21:14:09.290886 /Users/spider/GolandProjects/go-core/basic/strconv/strconv.go:43: parseBool 接收 1，0，t，f，T，F，true，false，True，False，TRUE，FALSE
