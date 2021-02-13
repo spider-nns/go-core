@@ -40,12 +40,13 @@ func selectTwo() {
 		}
 	}
 }
+
 //for循环
 func selectThree(ch1, ch2 chan int) <-chan int {
 	out := make(chan int, 3)
 	go func() {
 		defer close(out)
-		for {;
+		for {
 			select {
 			//ch1 为nil或被关闭 !ok
 			case v1, ok := <-ch1:
@@ -64,7 +65,7 @@ func selectThree(ch1, ch2 chan int) <-chan int {
 
 			if ch1 == nil && ch2 == nil {
 				break
-			};
+			}
 		}
 	}()
 	return out
